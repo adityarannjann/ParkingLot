@@ -16,7 +16,7 @@ class ParkingLot:
             return self.parking_dict[vehicle_number]
         return None
 
-# Terminal-based application
+
 if __name__ == "__main__":
     parking_lot = ParkingLot()
 
